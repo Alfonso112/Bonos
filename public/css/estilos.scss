@@ -1,0 +1,106 @@
+.size-texto{
+
+    font-family: 'Roboto';
+}
+
+.container-fluid{
+    width: 95%;
+}
+
+.titulos-ventanas{
+    font-family: 'Montserrat' !important;
+    color:  !important;
+    font-size: 30px;
+}
+
+.button{
+    font-family: 'Montserrat' !important;
+    font-size: 14px !important;
+    font-weight: 100 !important;
+}
+
+#listadoregistros label{
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.font-weight{
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+
+}
+
+.badge-pill{
+    font-weight: 100;
+    font-size: 15px;
+    font-family: 'Montserrat' !important;
+}
+
+
+#listadoregistros span{
+    font-size: 15px;   
+}
+
+.container-fluid .titulo-1{
+    font-size: 30px !important;
+    font-family: 'Quicksand';
+    font-weight: 600;
+    
+}
+
+.container-fluid .form-control{
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
+    background: #fff;
+    font-family: 'Quicksand';
+    font-size: 15px;
+    
+}
+
+.container-fluid .form-control:hover{
+    background: #E8EAED;
+    transition: all 0.5s linear;     
+}
+
+.container-fluid .form-control:focus{
+    background: #fff;
+    
+        
+}
+
+.button{
+    -webkit-border-radius: 25px 25px 25px 25px !important;
+    -moz-border-radius: 20px 20px 20px 20px !important;
+    font-size: 15px !important;
+    font-family: 'Montserrat' !important;
+
+
+}
+
+.carddd{
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
+}
+
+.carddd a{
+    font-size: 16px !important;
+    font-family: 'Quicksand' !important;
+    color: #7f8c8d;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing:  1px;
+    list-style: none;
+}
+
+.carddd a:hover{
+  
+    color: #2c3e50;
+    transition: all 0.5s;
+
+  
+}
